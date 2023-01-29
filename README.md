@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ketan Kumar Singh</h1>
+<h1 align="center"> नमस्ते (Namaste), I'm Ketan Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
