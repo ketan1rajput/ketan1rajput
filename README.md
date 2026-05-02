@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### `< कोड • सीखो • बनाओ />` &nbsp; Code · Learn · Build
+### `< बिल्ड. लर्न. रिपीट. />` &nbsp; Build · Learn · Repeat
 
 </div>
 
