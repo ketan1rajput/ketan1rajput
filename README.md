@@ -22,7 +22,7 @@ const ketan = {
   name:      "Ketan Kumar Singh",
   location:  "India 🇮🇳",
   role:      "Full Stack Web Developer",
-  learning:  ["Data Structures and algorithms", "Dev Ops Engineering],
+  learning:  ["Data Structures and algorithms", "Dev Ops Engineering"],
   expertise: ["Full Stack Web Development", "Web Development"],
   email:     "ke8920603717@gmail.com",
   motto:     "Write code that speaks for itself."
